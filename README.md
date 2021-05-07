@@ -11,11 +11,29 @@
 ![image](https://user-images.githubusercontent.com/33018600/116790473-49faa200-aaef-11eb-8234-32c55c909e5e.png)
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: K8S / Docker / Flask / Bot
+ㅤ
+### My 📝, Skill Set
+#### DevOps
+- / K8S / Docker / AWS /
+- MySQL
 
-- 🔭 I’m currently working on this page.2 
-- 🌱 I’m currently learning 2 
-- 👯 I’m looking to collaborate on 2 
+#### Frontend
+- / HTML5 / CSS3(SCSS) / JS(ES6)
+- / React /
+- / Flutter /
+
+#### Backend
+- / Flask /
+
+
+#### Collaboration
+- / Slack /
+
+
+
+- 🔭 K8S
+- 🌱 Docker
+- 👯 Flask
 - 🤔 I’m looking for help with 2 
 - 💬 Ask me about 2 
 - 📫 How to reach me: 2 

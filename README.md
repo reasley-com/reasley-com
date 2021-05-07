@@ -25,15 +25,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 
-
 ## My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=reasley-com alt=reasley /> </p>
 
-
-<center>
+<p align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=reasley-com&show_icons=true&count_private=true width="49%" /> <img src=https://github-readme-streak-stats.herokuapp.com/?user=reasley-com width="49%" />
-</center>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reasley-com&show_icons=true&count_private=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=reasley-com&style=flat&logoWidth=6)  
+
 

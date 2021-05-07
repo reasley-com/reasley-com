@@ -9,9 +9,9 @@
 ### Hi there 👋, my name is  reasley-com
 #### I am GitHub Readme Generator's creator
 ![image](https://user-images.githubusercontent.com/33018600/116790473-49faa200-aaef-11eb-8234-32c55c909e5e.png)
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+안녕하세요! 4개월차 선임 연구원 권승민입니다. 꾸준함의 가치를 느끼고 1일 1커밋 프로젝트와 기술 블로그를 운영하고 있습니다. 고래와 고양이, 그리고 클린 코드에 관심이 많습니다.
 
-ㅤ
+
 ### My 📝, Skill Set
 - **🔭DevOps   :** / K8S / Docker / AWS /
 - **🌱Frontend :** / HTML5 / CSS3(SCSS) / JS(ES6) / React / Flutter /

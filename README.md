@@ -14,31 +14,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ㅤ
 ### My 📝, Skill Set
 #### DevOps
-- / K8S / Docker / AWS /
-- MySQL
-
-#### Frontend
-- / HTML5 / CSS3(SCSS) / JS(ES6)
-- / React /
-- / Flutter /
-
-#### Backend
-- / Flask /
+- **🔭DevOps   :** / K8S / Docker / AWS /
+- **🌱Frontend :** / HTML5 / CSS3(SCSS) / JS(ES6) / React / Flutter /
+- **💬Backend  :** / K8S / Docker / AWS /
+- **👯Collaboration :** / Slack /
 
 
-#### Collaboration
-- / Slack /
-
-
-
-- 🔭 K8S
-- 🌱 Docker
-- 👯 Flask
-- 🤔 I’m looking for help with 2 
-- 💬 Ask me about 2 
-- 📫 How to reach me: 2 
-- 😄 Pronouns: 2 
-- ⚡ Fun fact: 2 
 
 ㅤ
 

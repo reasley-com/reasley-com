@@ -13,7 +13,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ㅤ
 ### My 📝, Skill Set
-#### DevOps
 - **🔭DevOps   :** / K8S / Docker / AWS /
 - **🌱Frontend :** / HTML5 / CSS3(SCSS) / JS(ES6) / React / Flutter /
 - **💬Backend  :** / K8S / Docker / AWS /

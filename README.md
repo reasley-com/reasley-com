@@ -36,7 +36,7 @@
 rying to support multiple languages.
 Currently, only English is supported.
 <p align="center">
-  <a href="README.md">English</a>
+  <a href="https://github.com/reasley-com">English</a>
   ·
   <a href="/docs/README_kr.md">한국어</a>
 </p>

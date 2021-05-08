@@ -30,5 +30,18 @@
   <img src=https://github-readme-stats.vercel.app/api?username=reasley-com&show_icons=true&count_private=true width="49%" /> <img src=https://github-readme-streak-stats.herokuapp.com/?user=reasley-com width="49%" />
 </p>
 
+ㅤ
+
+## 다국어 페이지
+여러가지 언어로 제공하려고 노력하고 있습니다.
+현재는 영어만 번역되고 있습니다.
+<p align="center">
+  <a href="https://github.com/reasley-com">English</a>
+  ·
+  <a href="/docs/README_kr.md">한국어</a>
+</p>
+
+
+
 
 

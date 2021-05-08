@@ -4,6 +4,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-reasley-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/reasley/)](https://www.twitter.com/reasley/)
 ![Profile views](https://gpvc.arturio.dev/reasley-com)  
 
+<p align="center">
+  <a href="README.md">English</a>
+  ·
+  <a href="/docs/README_kr.md">한국어</a>
+</p>
+
 
 
 ### Hi there 👋, my name is 권승민

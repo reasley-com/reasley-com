@@ -33,7 +33,7 @@
 ㅤ
 
 ## Multilingual page
-trying to support multiple languages.
+rying to support multiple languages.
 Currently, only English is supported.
 <p align="center">
   <a href="README.md">English</a>

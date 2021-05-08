@@ -6,7 +6,7 @@
 
 
 
-### Hi there 👋, my name is 권승민
+### Hi there 👋, my name is Seungmin Kwon
 ![image](https://user-images.githubusercontent.com/33018600/116790473-49faa200-aaef-11eb-8234-32c55c909e5e.png)
 안녕하세요! 4개월차 선임 연구원 권승민입니다. 
 꾸준함의 가치를 느끼고 1일 1커밋 프로젝트와 기술 블로그를 운영하고 있습니다.
@@ -33,7 +33,8 @@
 ㅤ
 
 ## Multilingual page
-
+trying to support multiple languages.
+Currently, only English is supported.
 <p align="center">
   <a href="README.md">English</a>
   ·

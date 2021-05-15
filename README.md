@@ -33,7 +33,7 @@
 ㅤ
 
 ## Multilingual page
-rying to support multiple languages.
+Trying to support multiple languages.
 Currently, only English is supported.
 <p align="center">
   <a href="https://github.com/reasley-com">English</a>

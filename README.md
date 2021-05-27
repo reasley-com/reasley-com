@@ -18,7 +18,7 @@
 - **🔭DevOps   :** / K8S / Docker / AWS / Firebase /
 - **🌱Frontend :** / HTML5 / CSS3(SCSS) / JS(ES6) / React / Flutter /
 - **💬Backend  :** / K8S / Docker / AWS /
-- **👯Collaboration :** / Slack /
+- **👯Collaboration :** / Slack / Discord /
 
 
 ㅤ

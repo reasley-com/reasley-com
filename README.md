@@ -2,7 +2,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=reasley.com/)](reasley.com/)
 [![Github Badge](https://img.shields.io/badge/-reasley-grey?style=flat&logo=github&logoColor=white&link=https://github.com/reasley/)](https://www.github.com/reasley-com/)
 [![Twitter Badge](https://img.shields.io/badge/-reasley-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/reasley/)](https://www.twitter.com/)
-<span align=left> <img src=https://komarev.com/ghpvc/?username=reasley-com alt=reasley /> </span>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=reasley-com alt=reasley /> </p>
 
 
 

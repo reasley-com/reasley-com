@@ -6,6 +6,7 @@
 
 
 
+
 ### Hi there 👋, my name is Seungmin Kwon
 ![image](https://user-images.githubusercontent.com/33018600/116790473-49faa200-aaef-11eb-8234-32c55c909e5e.png)
 안녕하세요! 4개월차 선임 연구원 권승민입니다. 

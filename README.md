@@ -19,7 +19,7 @@
 ### My 📝, Skill Set
 - **🔭DevOps   :** / K8S / Docker / AWS / Firebase /
 - **🌱Frontend :** / HTML5 / CSS3(SCSS) / JS(ES6) / React / Flutter /
-- **💬Backend  :** / K8S / Docker / AWS /
+- **💬Backend  :** / Flask / 
 - **👯Collaboration :** / Slack / Discord /
 
 

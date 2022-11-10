@@ -14,8 +14,8 @@ I'm interested in whales and clean codes.
 ㅤ
 ### My 📝, Skill Set
 - **🔭DevOps   :** / AWS / K8S / Docker /
-- **🌱Frontend :** / HTML5 / CSS3(SCSS) / JS(ES6) / React / Flutter /
-- **💬Backend  :** / Node.js / 
+- **🌱Frontend :** / React /
+- **💬Backend  :** / Express / 
 - **👯Collaboration :** / Slack / Discord /
 
 
